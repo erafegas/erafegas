@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erafegas&label=Profile%20views&color=0e75b6&style=flat" alt="erafegas" /> </p>
 
+![template (1)](https://user-images.githubusercontent.com/12762083/173696811-9a2d048c-9fac-4e3e-b5e1-5c6a528e9eb6.png)
+
+
 - 🌱 I’m currently learning **React in Courses of Bcn Activa**
 
 - 📫 How to reach me **erafegas@gmail.com**
