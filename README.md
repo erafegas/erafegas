@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduard</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h1 align="center">Hello Word 👋, I'm Eduard a Frontend developer coming soon</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erafegas&label=Profile%20views&color=0e75b6&style=flat" alt="erafegas" /> </p>
 
@@ -7,7 +7,6 @@
 
 
 - 🌱 I’m currently learning **React in Courses of Bcn Activa**
-
 
 
 <h3 align="left">Connect with me:</h3>
