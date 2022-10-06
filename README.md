@@ -1,8 +1,5 @@
 <h1 align="center">Hello Word 👋, I'm Eduard a Frontend developer coming soon</h1>
 
-![template (1)](https://user-images.githubusercontent.com/12762083/173696811-9a2d048c-9fac-4e3e-b5e1-5c6a528e9eb6.png)
-
-
 - 🌱 I’m currently learning **React in Courses of Bcn Activa**
 
 
