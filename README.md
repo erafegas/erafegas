@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Eduard</h1>
 
-                                                        Frontend Junior Apassionated
-
 📫 How to reach me **erafegas@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
