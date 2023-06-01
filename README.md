@@ -1,6 +1,8 @@
-<h1 align="center">Hola 👋, Me llamo Eduard</h1>
+<h1 align="center"> .</h1>
 
-📫 How to reach me **erafegas@gmail.com** 
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p> <a href="https://www.linkedin.com/in/eduard-rm/" target="blank">
